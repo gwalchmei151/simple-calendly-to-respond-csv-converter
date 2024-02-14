@@ -4,6 +4,8 @@
 # bash calendlyToRespond.sh <infosession tag> <filename>
 # OR, chmod +x and
 # ./calendlyToRespond.sh <infosession tag> <filename> 
+#
+# e.g. bash calendlyToRespond.sh info190224 event-786887162-invitees-export.csv
 
 infotag=$1
 
